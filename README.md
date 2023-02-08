@@ -7,32 +7,9 @@ Sales forecasting plays an integral role in setting expectations and making plan
    Forecast sales using store, promotion, and competitor data
    
 ## Approch:
-* a. Importing the required libraries and reading the dataset.
-* b. Exploratory Data Analysis (EDA)
-c. Feature Engineering
-d. Label Encoding 
-e. Model Building
-
-a. Performing train test split
-
-b. Linear Regression Model
-
-c. SGD Regression Model
-
-d. Decision Tree Regression Model
-
-e. Random Forest Regression Model
-
-Model Validation
-
-a. r2 score
-
-b. Mean absolute error
-
-c. Root mean squared error
-
-Creating the final right model and making predictions
-
-Feature Importance Analysis
-
-ConclusionI will be performing an exhaustive analysis in order to gain insights and engineer features with an interactive exploratory analysis and finally will use XGB to predict.
+* Importing the required libraries and reading the dataset.
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Label Encoding 
+* Model Building (XGB Model)
+* Model Validation
