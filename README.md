@@ -7,7 +7,7 @@ Sales forecasting plays an integral role in setting expectations and making plan
    Forecast sales using store, promotion, and competitor data
    
 ## Approch:
-* Importing the required libraries and reading the dataset.
+* Importing the required libraries and reading the dataset
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
 * Label Encoding 
